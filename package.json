@@ -11,6 +11,14 @@
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.12.0",
+    "webpack": "^4.40.2"
+  },
+  "dependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "babel-loader": "^8.0.6",
+    "webpack-cli": "^3.3.8",
+    "popmotion": "^8.7.0"
   }
 }
